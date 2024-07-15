@@ -1,2 +1,2 @@
 El-Morsi takeover
-# ads.yahoo.com
+# adkit.yahoo.com
